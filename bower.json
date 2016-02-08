@@ -1,0 +1,25 @@
+{
+  "name": "waves",
+  "homepage": "https://github.com/pmt-devs/waves",
+  "authors": [
+    "Victor Istrati <v.istrati@developmentaid.org>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "waves"
+  ],
+  "dependencies": {
+    "jquery": "1.9.1 - 2"
+  },
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
